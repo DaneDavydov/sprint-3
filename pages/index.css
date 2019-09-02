@@ -1,0 +1,11 @@
+@import url('../vendor/normalize.css');
+@import url('../blocks/header/header.css');
+
+.page {
+    width: 1440px;
+    min-height: 10226px;
+    margin: 0 auto;
+    font-family: 'SourceSansPro', 'Helvetica Neue', Arial, sans-serif;
+    background: #2A2C2F;
+    z-index: -1;
+}

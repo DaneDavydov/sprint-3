@@ -1,0 +1,32 @@
+.header {
+    width: 1184px;
+    height: 52px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.logo {
+    background-image: url(/images/logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 176.58px;
+    height: 52px;
+    position: absolute;
+    top: 30px;
+    left: 128px;
+    margin: auto;
+}
+
+.header__lang {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 23px;
+    text-align: right;
+    color:#FFFFFF;
+    margin-top: 30px;
+}
