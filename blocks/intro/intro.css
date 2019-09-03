@@ -1,7 +1,9 @@
 @import url('../intro/__title/intro__title.css');
 @import url('../intro/__subtitle/intro__subtitle.css');
 @import url('../intro/__content-row/intro__content-row.css');
-@import url('__quote/intro__quote.css');
+@import url('../intro/__quote/intro__quote.css');
+@import url('../intro/__author/intro__author.css');
+@import url('../intro/__facts/intro__facts.css');
 
 .intro {
     width: 984px;
@@ -10,5 +12,4 @@
     display: flex;
     flex-direction: column;
     font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-    border: solid red 1px;
 }
