@@ -1,11 +1,42 @@
 @import url('../vendor/normalize.css');
 @import url('../blocks/header/header.css');
+@import url('../blocks/content-title/content-title.css');
+@import url('../blocks/content-subtitle/content-subtitle.css');
+@import url('../blocks/lead/lead.css');
+@import url('../blocks/intro/intro.css');
+
+
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../fonts/Inter-Regular.woff") format("woff2"),
+         url("../fonts/Inter-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("../fonts/Inter-Bold.woff2") format("woff2"),
+         url("../fonts/Inter-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url("../fonts/Inter-Black.woff2") format("woff2"),
+         url("../fonts/Inter-Black.woff") format("woff");
+}
 
 .page {
-    width: 1440px;
-    min-height: 10226px;
+    width: 1280px;
     margin: 0 auto;
-    font-family: 'SourceSansPro', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     background: #2A2C2F;
-    z-index: -1;
+    color: #FFFFFF;
 }
