@@ -1,4 +1,12 @@
-@import url(__place/places__place.css);
+@import url('__place/places__place.css');
+@import url('__img/places__img.css');
+@import url('__paragraph/places__paragraph.css');
+@import url('__text/places__text.css');
+@import url('__title/places__title.css');
+@import url('__url/places__url.css');
+@import url('__url-heading/places__url-heading.css');
+@import url('__website/places__website.css');
+
 
 .places {
     width: 984px;
