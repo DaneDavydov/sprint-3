@@ -1,7 +1,5 @@
 .video__item {
     width: 583px;
     height: 323px;
-    position: relative;
-    z-index: 5;
-    left: 30px;
+    background-color: chartreuse;
 }
