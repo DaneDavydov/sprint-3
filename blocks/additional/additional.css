@@ -4,9 +4,10 @@
 @import url('__item/additional__item.css');
 @import url('__heading-item/additional__heading-item.css');
 @import url('__text/additional__text.css');
+@import url('__item-bg/additional__item-bg.css');
 
 .additional {
-    width: 1184;
+    min-width: 1184px;
     display: flex;
     flex-direction: column;
     align-items: center;
