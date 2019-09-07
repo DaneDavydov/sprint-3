@@ -1,0 +1,20 @@
+.video__item-bg {
+    opacity:0.5;
+    background-size: contain;
+    background:  #000000 url('../../../images/kamchatka3.jpg') no-repeat center;
+    border-radius: 5px;
+    width: 583px;
+    height: 323px;
+    position:absolute;
+    top: 0;
+    left: 0;
+    z-index:-1;
+}
+
+.video__item-bg_two {
+    background: url('../../../images/observatory.jpg');
+}
+
+.video__item-bg:hover {
+    opacity:0.3;
+}

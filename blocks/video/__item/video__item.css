@@ -1,7 +1,6 @@
 .video__item {
     width: 583px;
     height: 323px;
-    background-size: contain;
-    background: url(/images/observatory.jpg) rgba(0, 0, 0, 0.1) no-repeat center;
-    border-radius: 5px;
+    position: relative;
+    z-index: 1;
 }
