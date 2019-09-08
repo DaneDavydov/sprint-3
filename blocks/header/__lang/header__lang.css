@@ -4,13 +4,13 @@
     text-align: right;
 }
 
-.header__lang_ru {
+.header__lang-ru {
     text-decoration-line: underline;
     color:#FFFFFF;
     margin-right: 18px; 
 }
 
-.header__lang_en {
+.header__lang-en {
     text-decoration: none;
     color:#FFFFFF;
 }
