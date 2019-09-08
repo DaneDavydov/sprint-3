@@ -60,9 +60,8 @@
 }
 
 .page {
-    width: 1280px;
-    padding-top: 30px;
-    padding-bottom: 54px;
+    width: 1184px;
+    padding: 30px 48px 54px 48px;
     margin: 0 auto;
     font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     background: #2A2C2F;
