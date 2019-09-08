@@ -1,6 +1,7 @@
 .places__place {
-    min-width: 984px;
-    display: flex;
-    flex-wrap: wrap;
     margin-bottom: 72px;
+    display: grid;
+    grid-template-columns: 460px 484px;
+    grid-column-gap: 40px;
+    grid-row-gap: 55px
 }

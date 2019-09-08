@@ -1,5 +1,4 @@
 .places__website {
     width: 484px;
-    align-self: flex-end;
-    margin-bottom: 60px;
+    align-self: end;
 }
