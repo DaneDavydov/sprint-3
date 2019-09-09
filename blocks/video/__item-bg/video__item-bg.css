@@ -11,6 +11,6 @@
     z-index:-1;
 }
 
-.video__item-bg:hover {
-    opacity:0.2;
+.video__item:hover .video__item-bg{
+    opacity:0.8;
 }
