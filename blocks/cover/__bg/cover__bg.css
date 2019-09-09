@@ -11,6 +11,6 @@
     z-index:-1;
 }
 
-.cover__bg:hover {
-    opacity:0.2;
+.cover:hover .cover__bg{
+    opacity:0.8;
 }
