@@ -1,7 +1,5 @@
 .cover__bg {
     opacity:0.3;
-    background-size: contain;
-    background:  #000000 no-repeat center;
     border-radius: 5px;
     width: 1184px;
     height: 594px;
